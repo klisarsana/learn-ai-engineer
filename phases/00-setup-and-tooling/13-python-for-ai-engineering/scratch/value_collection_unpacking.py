@@ -1,5 +1,3 @@
-import token
-
 weights = [0.5, -1.2, 3.0]
 alias = weights
 alias[0] = 99.0
